@@ -24,6 +24,9 @@ The Shared links Belong to the Corresponding Owners
 
 [![SAMP_LAUNCHER_AND_VOICE_PLUGIN](https://img.shields.io/badge/SAMP_LAUNCHER_AND_VOICE_[RECOMMENDED]-blue?style=for-the-badge)](https://sharemods.com/12i0c07swevh/ACRP_Client_and_Voice___Recommended__.rar.html)
 ## Mobile Clients [ ALLOWED ] 📱
+
+[![PLAYSTORE_SAMP_CLIENT](https://img.shields.io/badge/PLAYSTORE_SAMP_CLIENT-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher&hl=en_IN&gl=US)
+
 [![PLAYSTORE_OLD_SAMP_CLIENT](https://img.shields.io/badge/PLAYSTORE_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/AtlanticCityRoleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Playstore.SAMP.Old.Client.apk)
 
 [![ALYN_OLD_SAMP_CLIENT](https://img.shields.io/badge/ALYN_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/AtlanticCityRoleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Alyn.SAMP.Client.apk)
