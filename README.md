@@ -68,7 +68,7 @@ The Shared links Belong to the Corresponding Owners
 > [!WARNING]
 > Effect Mod may lead to Drop of FPS, While using with Single Mod Pack.
 
-## Mobile Mods
+## Mobile Mods ⚙️
 
 [![Single_Pack_Mobile_MOD](https://img.shields.io/badge/Single_Pack_Mobile_MOD-orange?style=for-the-badge)](https://sharemods.com/1nbwp2rvle97/ACRP_Mobile_Mod_Single_Pack.zip.html)
 
@@ -81,9 +81,9 @@ The Shared links Belong to the Corresponding Owners
 
 > [!IMPORTANT]
 > The Only Crosshair MOD that allowed to use in Atlantic City Roleplay.
-## Others
+## Others ⚠️
 
 [![SAMP_LAUNCHER_AND_VOICE_PLUGIN_[NOT_RECOMMENDED]](https://img.shields.io/badge/SAMP_LAUNCHER_AND_VOICE_[NOT_RECOMMENDED]-blue?style=for-the-badge)](https://sharemods.com/iuqrixpwzfik/ACRP_Client_and_Voice___Not_Recommended__.rar.html)
-## Support
+## Support 🎧
 
 For support, Ping Staff or Visa Provider in [Discord](https://discord.gg/u7a5kQRXzX).
