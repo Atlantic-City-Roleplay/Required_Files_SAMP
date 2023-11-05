@@ -1,6 +1,6 @@
 
 
-![Logo](https://cdn.discordapp.com/attachments/917999309386043433/1069616834959114260/ACRPlogo.png?ex=6548f04d&is=65367b4d&hm=508ea1fe16cdea907da1b1d3b225386dbc78031f3d99e5d79a305f4ef623ac85&)
+![Logo](https://cdn.discordapp.com/attachments/1169999025643200623/1170029175353126972/ACSmallNoBG.png?ex=65578d95&is=65451895&hm=e38f0dd864895ba40371807e702b56d59a0cc9ea71d9adedeb1afadcd20ef46d&)
 
 [![Discord Link](https://img.shields.io/badge/Atlantic%20City%20Roleplay-4e5d94?style=for-the-badge&logo=discord&logoColor=white&label=Join)
 ](https://discord.gg/u7a5kQRXzX)
