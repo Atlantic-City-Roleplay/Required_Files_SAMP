@@ -40,7 +40,7 @@ The Shared links Belong to the Corresponding Owners
 
 [![FPP_Mod](https://img.shields.io/badge/First_Person_View_MOD-violet?style=for-the-badge&label=Included%20in%20Single%20Pack&labelColor=green)](https://sharemods.com/m3tf8mkrj2ch/First_Person_View_Mod.rar.html)
 
-[![Discord_Rich_Presence](https://img.shields.io/badge/Discord_Rich_Presence_[_CUSTOM_]-violet?style=for-the-badge&label=Included%20in%20Game%20File&labelColor=green)](https://sharemods.com/mtebysxbx177/Discord_Rich_Presence.rar.html)
+[![Discord_Rich_Presence](https://img.shields.io/badge/Discord_Rich_Presence_[_CUSTOM_]-violet?style=for-the-badge&label=Included%20in%20Game%20File&labelColor=green)](https://github.com/AtlanticCityRoleplay/Required_Files_SAMP/releases/download/ACRP_Discord_Rich_Presence/ACRP_Discord_Rich_Presence.asi)
 
 ![Custom_Discord_Rich_Presence](https://cdn.discordapp.com/attachments/895888713777831946/1170981046771261532/ACRP_Discord_Rich_Presence.png?ex=655b0415&is=65488f15&hm=5794539ac92a941dda59bba7212ceecf6338c2733cbdb1248feb5d41d8e06eb8&)
 
