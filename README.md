@@ -42,7 +42,7 @@ The Shared links Belong to the Corresponding Owners
 
 [![Discord_Rich_Presence](https://img.shields.io/badge/Discord_Rich_Presence_[_CUSTOM_]-violet?style=for-the-badge&label=Included%20in%20Game%20File&labelColor=green)](https://github.com/AtlanticCityRoleplay/Required_Files_SAMP/releases/download/ACRP_Discord_Rich_Presence/ACRP_Discord_Rich_Presence.asi)
 
-![Custom_Discord_Rich_Presence](https://cdn.discordapp.com/attachments/895888713777831946/1170981046771261532/ACRP_Discord_Rich_Presence.png?ex=655b0415&is=65488f15&hm=5794539ac92a941dda59bba7212ceecf6338c2733cbdb1248feb5d41d8e06eb8&)
+![Custom_Discord_Rich_Presence](https://cdn.discordapp.com/attachments/895888713777831946/1197486026105573506/Screenshot_2024-01-18_145743.png?ex=65bb70c4&is=65a8fbc4&hm=672e9f6add8729394cdb4cc2801c25402be2f7f136d837ad6cbf70277eb93811&)
 
 [![Road_Texture_Mod](https://img.shields.io/badge/Road_Texture_MOD-violet?style=for-the-badge&label=Included%20in%20Single%20Pack&labelColor=green)](https://sharemods.com/esr9mtpp3ddw/GTA_SA_Road_Mod.rar.html)
 
