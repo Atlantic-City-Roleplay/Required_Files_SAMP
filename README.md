@@ -27,9 +27,9 @@ The Shared links Belong to the Corresponding Owners
 
 [![PLAYSTORE_SAMP_CLIENT](https://img.shields.io/badge/PLAYSTORE_SAMP_CLIENT-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher&hl=en_IN&gl=US)
 
-[![PLAYSTORE_OLD_SAMP_CLIENT](https://img.shields.io/badge/PLAYSTORE_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/AtlanticCityRoleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Playstore.SAMP.Old.Client.apk)
+[![PLAYSTORE_OLD_SAMP_CLIENT](https://img.shields.io/badge/PLAYSTORE_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/Atlantic-City-Roleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Playstore.SAMP.Old.Client.apk)
 
-[![ALYN_OLD_SAMP_CLIENT](https://img.shields.io/badge/ALYN_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/AtlanticCityRoleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Alyn.SAMP.Client.apk)
+[![ALYN_OLD_SAMP_CLIENT](https://img.shields.io/badge/ALYN_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/Atlantic-City-Roleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Alyn.SAMP.Client.apk)
 ## PC Mods ⚙️
 [![Single_Pack_PC_MOD](https://img.shields.io/badge/Single_Pack_PC_MOD-orange?style=for-the-badge)](https://sharemods.com/3aa9knincf6r/Single_Pack.rar.html)
 
@@ -40,7 +40,7 @@ The Shared links Belong to the Corresponding Owners
 
 [![FPP_Mod](https://img.shields.io/badge/First_Person_View_MOD-violet?style=for-the-badge&label=Included%20in%20Single%20Pack&labelColor=green)](https://sharemods.com/m3tf8mkrj2ch/First_Person_View_Mod.rar.html)
 
-[![Discord_Rich_Presence](https://img.shields.io/badge/Discord_Rich_Presence_[_CUSTOM_]-violet?style=for-the-badge&label=Included%20in%20Game%20File&labelColor=green)](https://github.com/AtlanticCityRoleplay/Required_Files_SAMP/releases/download/ACRP_Discord_Rich_Presence/ACRP_Discord_Rich_Presence.asi)
+[![Discord_Rich_Presence](https://img.shields.io/badge/Discord_Rich_Presence_[_CUSTOM_]-violet?style=for-the-badge&label=Included%20in%20Game%20File&labelColor=green)](https://github.com/Atlantic-City-Roleplay/Required_Files_SAMP/releases/download/ACRP_Discord_Rich_Presence/ACRP_Discord_Rich_Presence.asi)
 
 ![Custom_Discord_Rich_Presence](https://cdn.discordapp.com/attachments/895888713777831946/1197486026105573506/Screenshot_2024-01-18_145743.png?ex=65bb70c4&is=65a8fbc4&hm=672e9f6add8729394cdb4cc2801c25402be2f7f136d837ad6cbf70277eb93811&)
 
