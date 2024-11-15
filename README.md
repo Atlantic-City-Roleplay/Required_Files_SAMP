@@ -22,7 +22,7 @@ The Shared links Belong to the Corresponding Owners
 ## PC Game & Client [ REQUIRED ] 💻
 [![GTA_SA_NO_MOD](https://img.shields.io/badge/GTA_SA_[No_MOD]-blue?style=for-the-badge)](https://sharemods.com/ufmdyj8xgjf7/ACRP_GTA_SA_[_No_Mod_].rar.html)
 
-[![OMP_LAUNCHER_AND_VOICE_PLUGIN](https://img.shields.io/badge/OMP_LAUNCHER_AND_VOICE_[RECOMMENDED]-blue?style=for-the-badge)](https://sharemods.com/biysfskxfmmx/ACRP_OMP_Launcher_and_Voice.rar.html)
+[![OMP_LAUNCHER_AND_VOICE_PLUGIN](https://img.shields.io/badge/OMP_LAUNCHER_AND_VOICE-blue?style=for-the-badge)](https://sharemods.com/biysfskxfmmx/ACRP_OMP_Launcher_and_Voice.rar.html)
 
 ## Mobile Clients [ ALLOWED ] 📱
 
@@ -90,7 +90,6 @@ The Shared links Belong to the Corresponding Owners
 
 [![SAMP_CLIENT](https://img.shields.io/badge/SAMP_CLIENT-blue?style=for-the-badge)](https://sharemods.com/01md23tvglda/SAMP_Client.rar.html)
 
-[![SAMP_LAUNCHER_AND_VOICE_PLUGIN_[NOT_RECOMMENDED]](https://img.shields.io/badge/SAMP_CLIENT_AND_VOICE_[NOT_RECOMMENDED]-blue?style=for-the-badge)](https://sharemods.com/iuqrixpwzfik/ACRP_Client_and_Voice_[_Not_Recommended_].rar.html)
 ## Support 🎧
 
 For support, Ping Staff or Visa Provider in [Discord](https://discord.gg/u7a5kQRXzX).
