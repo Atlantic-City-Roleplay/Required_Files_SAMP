@@ -90,6 +90,8 @@ The Shared links Belong to the Corresponding Owners
 
 [![SAMP_CLIENT](https://img.shields.io/badge/SAMP_CLIENT-blue?style=for-the-badge)](https://sharemods.com/01md23tvglda/SAMP_Client.rar.html)
 
+[![SAMP_CLIENT_AND_VOICE_(Not_Recommended)](https://img.shields.io/badge/SAMP_CLIENT_AND_VOICE_(Not_Recommended)-blue?style=for-the-badge)](https://sharemods.com/iuqrixpwzfik/ACRP_Client_and_Voice_[_Not_Recommended_].rar.html)
+
 ## Support 🎧
 
 For support, Ping Staff or Visa Provider in [Discord](https://discord.gg/u7a5kQRXzX).
