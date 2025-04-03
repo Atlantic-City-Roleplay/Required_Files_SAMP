@@ -22,7 +22,9 @@ The Shared links Belong to the Corresponding Owners
 ## PC Game & Client [ REQUIRED ] 💻
 [![GTA_SA_NO_MOD](https://img.shields.io/badge/GTA_SA_[No_MOD]-blue?style=for-the-badge)](https://sharemods.com/ufmdyj8xgjf7/ACRP_GTA_SA_[_No_Mod_].rar.html)
 
-[![OMP_LAUNCHER_AND_VOICE_PLUGIN](https://img.shields.io/badge/OMP_LAUNCHER_AND_VOICE-blue?style=for-the-badge)](https://sharemods.com/biysfskxfmmx/ACRP_OMP_Launcher_and_Voice.rar.html)
+[![OMP_LAUNCHER](https://img.shields.io/badge/OMP_LAUNCHER-blue?style=for-the-badge)](https://github.com/openmultiplayer/launcher/releases/latest)
+
+[![ACRP_VOICE_AND_RUNTIME_LIBRARY](https://img.shields.io/badge/ACRP_VOICE_AND_RUNTIME_LIBRARY-blue?style=for-the-badge)](https://sharemods.com/18c2lral0pwx/ACRP_Voice_and_Runtime_Library.rar.html)
 
 ## Mobile Clients [ ALLOWED ] 📱
 
@@ -85,8 +87,6 @@ The Shared links Belong to the Corresponding Owners
 > [!IMPORTANT]
 > The Only Crosshair MOD that allowed to use in Atlantic City Roleplay.
 ## Others ⚠️
-
-[![OMP_LAUNCHER](https://img.shields.io/badge/OMP_LAUNCHER-blue?style=for-the-badge)](https://github.com/openmultiplayer/launcher/releases/latest)
 
 [![SAMP_CLIENT](https://img.shields.io/badge/SAMP_CLIENT-blue?style=for-the-badge)](https://sharemods.com/01md23tvglda/SAMP_Client.rar.html)
 
