@@ -38,6 +38,11 @@ The Shared links Belong to the Corresponding Owners
 [![PLAYSTORE_OLD_SAMP_CLIENT](https://img.shields.io/badge/PLAYSTORE_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/Atlantic-City-Roleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Playstore.SAMP.Old.Client.apk)
 
 [![ALYN_OLD_SAMP_CLIENT](https://img.shields.io/badge/ALYN_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://github.com/Atlantic-City-Roleplay/Required_Files_SAMP/releases/download/Mobile_Launcher/Alyn.SAMP.Client.apk)
+
+> [!TIP]
+> - PLAYSTORE OLD SAMP CLIENT [TUTORIAL](https://youtu.be/xe9I5Mlp2Cc)
+> - ALYN OLD SAMP CLIENT [TUTORIAL](https://youtube.com/shorts/nIrNd6KDt3E?feature=share)
+
 ## PC Mods ⚙️
 [![Single_Pack_PC_MOD](https://img.shields.io/badge/Single_Pack_PC_MOD-orange?style=for-the-badge)](https://sharemods.com/3aa9knincf6r/Single_Pack.rar.html)
 
