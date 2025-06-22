@@ -30,7 +30,7 @@ The Shared links Belong to the Corresponding Owners
 
 [![PLAYSTORE_SAMP_CLIENT](https://img.shields.io/badge/PLAYSTORE_SAMP_CLIENT-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher&hl=en_IN&gl=US)
 
-[![ALYN_SAMP_CLIENT](https://img.shields.io/badge/ALYN_OLD_SAMP_CLIENT-blue?style=for-the-badge)](https://alynsampmobile.pro/game/alyn_sampmobile.apk)
+[![ALYN_SAMP_CLIENT](https://img.shields.io/badge/ALYN_SAMP_CLIENT-blue?style=for-the-badge)](https://alynsampmobile.pro/game/alyn_sampmobile.apk)
 
 > [!IMPORTANT]
 > The Upcoming clients supports until android 12.
